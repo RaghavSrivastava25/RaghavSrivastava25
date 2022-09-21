@@ -12,7 +12,7 @@ Languages : Python / SQL / C++
 
 Libraries : PyTorch / Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25)](https://github.com/RaghavSrivastava25/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Neural-Machine-Translation 
 
