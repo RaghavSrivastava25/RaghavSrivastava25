@@ -37,13 +37,3 @@ Libraries : PyTorch / Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matpl
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/raghav-srivastava-8)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RaghavSrivastava25)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RaghavSrivastava25)](https://github.com/RaghavSrivastava25/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RaghavSrivastava25&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/RaghavSrivastava25)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/RaghavSrivastava25)  
-
