@@ -6,8 +6,6 @@ I'm Raghav Srivastava
 
 I'm a Machine Learning Engineer, Data Science enthusiast.
 
-I enjoy working with frameworks like PyTorch, Tensorflow, Keras, Hugging Face, Scikit-Learn, etc.
-
 I have an inclination towards NLP, am also interested in Time Series Forecasting and Recommendation systems. 
 
 Languages: Python / SQL / C++ 
