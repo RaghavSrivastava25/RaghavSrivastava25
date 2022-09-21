@@ -6,7 +6,9 @@ I'm a Machine Learning Engineer, Data Science enthusiast.
 I enjoy working with frameworks like PyTorch, Tensorflow, Keras, Hugging Face, Scikit-Learn, etc.
 I have an inclination towards NLP, am also interested in Time Series Forecasting and Recommendation systems. 
 
-Skills: Python / SQL / PyTorch / Tensorflow / Keras / Scikit-Learn
+Languages: Python / SQL / C++ 
+Libraries: PyTorch / Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
+
 
 - 🔭 I’m currently working on Neural Machine Translation.
 
