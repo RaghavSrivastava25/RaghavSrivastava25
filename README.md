@@ -6,7 +6,7 @@ I'm Raghav Srivastava
 
 I'm a Machine Learning Engineer.
 
-I have an inclination towards NLP, am also interested in Time Series Forecasting and Recommendation systems. 
+I have an inclination towards NLP, am also interested in Recommendation systems, AI for healthcare, etc. 
 
 Languages : Python / SQL / C++ 
 
