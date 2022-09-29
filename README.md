@@ -37,5 +37,6 @@ Databases : MySQL, PostgreSQL, MongoDB
 
 
 
-Also chehckout My NFT collection:
+Also checkout My NFT collection on OpenSea :
+
 https://opensea.io/collection/untitled-collection-514989158
