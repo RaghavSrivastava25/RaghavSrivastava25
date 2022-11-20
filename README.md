@@ -10,7 +10,7 @@ I have an inclination towards NLP, am also interested in Recommendation systems,
 
 Languages : Python / SQL / C++ 
 
-Libraries : PyTorch / Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
+Libraries : Tensorflow / Keras / Pytorch / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
 
 Databases : MySQL, PostgreSQL, MongoDB 
 
@@ -19,11 +19,11 @@ Databases : MySQL, PostgreSQL, MongoDB
 
 - 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Alzheimer-s-Pred
 
-- 🌱 I’m currently learning NLP with Deep Learning 
+- 🌱 I’m currently learning NLP. 
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
-- 🤔 I’m looking for help with Transformer models, Graph Neural Networks. 
+- 🤔 I’m looking for help with Recommendation systems.
 
 - 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
 
