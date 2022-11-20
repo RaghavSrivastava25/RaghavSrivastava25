@@ -6,7 +6,7 @@ I'm Raghav Srivastava
 
 I'm a Machine Learning Engineer.
 
-I have an inclination towards NLP, am also interested in Recommendation systems, AI for healthcare, etc. 
+I have an inclination towards NLP, am also interested in Recommendation systems, AI for healthcare. 
 
 Languages : Python / SQL / C++ 
 
@@ -19,7 +19,7 @@ Databases : MySQL, PostgreSQL, MongoDB
 
 - 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Alzheimer-s-Pred
 
-- 🌱 I’m currently learning NLP. 
+- 🌱 I’m currently learning abt NLP, Recommendation systems.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
