@@ -4,9 +4,13 @@ I'm Raghav Srivastava
 
 ![Machine Learning](https://pbs.twimg.com/profile_banners/1469129923004538884/1658736319/1500x500)
 
-I'm a Developer.
+I'm a thinker.
 
-I have an inclination towards Fintech and Algorithmic trading, NLP, am also interested in Recommendation systems, AI for healthcare. 
+I have an inclination towards:
+-> Fintech and Algorithmic trading
+->NLP
+->Recommendation systems
+->AI for healthcare
 
 Languages : Python / SQL / C++ 
 
@@ -23,7 +27,7 @@ Databases : PostgreSQL / CassandraDB
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
-- 🤔 I’m looking for help with Web Development.
+- 🤔 I’m looking for help with some Web Dev stuff.
 
 - 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
 
