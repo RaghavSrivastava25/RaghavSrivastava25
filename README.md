@@ -26,10 +26,7 @@ Databases : PostgreSQL / CassandraDB
 - 🤔 I’m looking for help with some Web Dev stuff.
 
 - 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
-
-- My Resume
-[Raghav's Resume.pdf]([https://github.com/RaghavSrivastava25/RaghavSrivastava25/files/9661734/Raghav.s.Resume.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e475c4b6-144e-4352-b6ee-579ee4cf71ce/Raghavs_Resume-Latest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221210T125659Z&X-Amz-Expires=86400&X-Amz-Signature=b16c59845a86e2c004d09a3de887da4aa991d8a4bf9d9e4236db59256104d228&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Raghav%27s%2520Resume-Latest.pdf%22&x-id=GetObject))
-
+ 
 - 📫 How to reach me: mr.tachyon25@gmail.com 
 
 
