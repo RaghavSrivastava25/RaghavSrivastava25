@@ -21,7 +21,7 @@ Databases : PostgreSQL / CassandraDB
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on https://github.com/RaghavSrivastava25/OTTO-Multi-Objective-Recommender-System
+- 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Zerodha-WS-to-SQLite-DB
 
 - 🌱 I’m currently learning abt Algorithmic Trading, Fintech solutions, NLP.
 
