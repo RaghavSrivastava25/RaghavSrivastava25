@@ -4,26 +4,26 @@ I'm Raghav Srivastava
 
 ![Machine Learning](https://pbs.twimg.com/profile_banners/1469129923004538884/1658736319/1500x500)
 
-I'm a Machine Learning Engineer.
+I'm a Developer.
 
-I have an inclination towards NLP, am also interested in Recommendation systems, AI for healthcare. 
+I have an inclination towards Fintech and Algorithmic trading, NLP, am also interested in Recommendation systems, AI for healthcare. 
 
 Languages : Python / SQL / C++ 
 
-Libraries : Tensorflow / Keras / Pytorch / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
+Libraries : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
 
-Databases : MySQL, PostgreSQL, MongoDB 
+Databases : MySQL, PostgreSQL, CassandraDB 
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on https://github.com/RaghavSrivastava25/OTTO-Multi-Objective-Recommender-System
 
-- 🌱 I’m currently learning abt NLP, Recommendation systems.
+- 🌱 I’m currently learning abt Algorithmic Trading, Fintech solutions, NLP.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
-- 🤔 I’m looking for help with Recommendation systems.
+- 🤔 I’m looking for help with Web Development.
 
 - 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
 
