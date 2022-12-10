@@ -6,7 +6,7 @@ I'm Raghav Srivastava
 
 I'm a thinker.
 
-I have an inclination towards:Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
+I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
 
 Languages : Python / SQL / C++ 
 
