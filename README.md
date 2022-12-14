@@ -8,9 +8,9 @@ I'm a thinker.
 
 I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
 
-Languages : Python / SQL / C++ 
+Languages : Python / SQL / C# / C++
 
-Libraries : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / NLTK / Hugging Face
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / .NET / ASP.NET CORE / ASP.NET MVC / Blazor / ML.NET /  NLTK / Hugging Face
 
 Databases : PostgreSQL / CassandraDB 
 
@@ -19,7 +19,7 @@ Databases : PostgreSQL / CassandraDB
 
 - 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Zerodha-WS-to-SQLite-DB
 
-- 🌱 I’m currently learning abt Algorithmic Trading, Fintech solutions, NLP.
+- 🌱 I’m currently learning abt Algorithmic Trading, Fintech solutions.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
