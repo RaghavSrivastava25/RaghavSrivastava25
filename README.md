@@ -4,7 +4,7 @@ I'm Raghav Srivastava
 
 ![Machine Learning](https://pbs.twimg.com/profile_banners/1469129923004538884/1658736319/1500x500)
 
-I'm a thinker.
+I'm a thinker and a Developer.
 
 I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
 
