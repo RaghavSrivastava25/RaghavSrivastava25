@@ -10,7 +10,7 @@ I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommend
 
 Languages : Python / SQL / C# / C++
 
-Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / .NET / ASP.NET CORE / ASP.NET MVC / Blazor / ML.NET /  NLTK / Hugging Face
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / .NET /  NLTK / Hugging Face
 
 Databases : PostgreSQL / CassandraDB 
 
