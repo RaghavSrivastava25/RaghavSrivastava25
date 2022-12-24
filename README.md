@@ -17,13 +17,13 @@ Databases : PostgreSQL / CassandraDB
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Zerodha-WS-to-SQLite-DB
+- 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Prototype-1 , am a data analyst intern at Pace Stock Brocking Pvt Ltd.
 
-- 🌱 I’m currently learning abt Algorithmic Trading, Fintech solutions.
+- 🌱 I’m currently learning abt Algorithmic Trading and fintech solutions in C#/.NET
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
-- 🤔 I’m looking for help with some Web Dev stuff.
+- 🤔 I’m looking for help with some intimidating fintech startup stuff, contact me if you're interested in knowing what's it about.
 
 - 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
  
