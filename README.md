@@ -17,7 +17,7 @@ Databases : PostgreSQL / CassandraDB
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on https://github.com/RaghavSrivastava25/Prototype-1 , am a data analyst intern at Pace Stock Brocking Pvt Ltd.
+- 🔭 I’m currently a data analyst intern at Pace Stock Brocking Pvt Ltd.
 
 - 🌱 I’m currently learning abt Algorithmic Trading and fintech solutions in C#/.NET
 
