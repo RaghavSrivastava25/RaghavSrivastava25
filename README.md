@@ -17,9 +17,9 @@ Databases : PostgreSQL / MongoDB
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently a data analyst intern at Pace Stock Brocking Pvt Ltd.
+- 🔭 I’m currently a junior dev at Pace Stock Brocking Pvt Ltd.
 
-- 🌱 I’m currently learning abt Algorithmic Trading and fintech solutions in C#/.NET
+- 🌱 I’m currently learning abt Quantitative investment management, DBA stuff.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
