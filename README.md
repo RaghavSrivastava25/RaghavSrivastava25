@@ -12,7 +12,7 @@ Languages : Python / SQL / C# / C++
 
 Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / .NET /  NLTK / Hugging Face
 
-Databases : PostgreSQL / CassandraDB 
+Databases : PostgreSQL / MongoDB 
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
