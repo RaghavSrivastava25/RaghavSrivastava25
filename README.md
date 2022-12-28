@@ -19,13 +19,13 @@ Databases : PostgreSQL / MongoDB
 
 - 🔭 I’m currently a junior dev at Pace Stock Brocking Pvt Ltd.
 
-- 🌱 I’m currently learning abt Quantitative investment management, DBA stuff.
+- 🌱 I’m currently learning abt Quantitative investment management, algorithmic trading, DBA stuff.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
 - 🤔 I’m looking for help with some intimidating fintech startup stuff, contact me if you're interested in knowing what's it about.
 
-- 💬 Ask me about Machine Learning, Deep Learning, Math, Stats, Game Theory, The Human Brain, etc. 
+- 💬 Ask me about Machine Learning, Math, Stats, Game Theory, The Human Brain, etc. 
  
 - 📫 How to reach me: mr.tachyon25@gmail.com 
 
