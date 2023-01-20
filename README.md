@@ -34,5 +34,5 @@ Databases : PostgreSQL / MongoDB
 
 
 
-Also checkout My NFT collection on OpenSea :
-https://opensea.io/collection/untitled-collection-514989158
+StockBrain 
+https://glitter-molybdenum-e10.notion.site/StockBrain-7562bcd2beb74ff6910b32ec6bed8ff2
