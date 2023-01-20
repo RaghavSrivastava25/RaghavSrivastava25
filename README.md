@@ -8,7 +8,7 @@ I'm a thinker and a Developer.
 
 I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
 
-Languages : Python / SQL / C# / C++ / Q#
+Languages : Python / SQL / Q# / C++ / C# / C / Matlab
 
 Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane /.NET /  NLTK / Hugging Face / Gradio
 
