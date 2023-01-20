@@ -30,9 +30,11 @@ Databases : PostgreSQL / MongoDB
 - 📫 How to reach me: mr.tachyon25@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RaghavSrivastava25) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raghav-srivastava-11001ai//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Raghav_11001_ai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.notion.so/Raghav-Srivastava-a18bb03c955242ebae845af1096cb130) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/raghav-srivastava-8) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RaghavSrivastava25) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghav-srivastava-11001ai/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Raghav_11001_ai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.notion.so/Raghav-Srivastava-a18bb03c955242ebae845af1096cb130) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/raghav-srivastava-8) 
 
 
 
 StockBrain 
+
+
 https://glitter-molybdenum-e10.notion.site/StockBrain-7562bcd2beb74ff6910b32ec6bed8ff2
