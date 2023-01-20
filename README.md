@@ -17,7 +17,7 @@ Databases : PostgreSQL / MongoDB
 
 - 🔭 I’m building my startup StockBrain 
 
-- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
+- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms & Cryptography, Algorithmic trading and Mathematical Finance.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
