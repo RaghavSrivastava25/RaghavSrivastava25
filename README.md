@@ -15,8 +15,6 @@ Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Ma
 Databases : PostgreSQL / MongoDB 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
-
 - 🔭 I’m building my startup StockBrain 
 
 - 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
