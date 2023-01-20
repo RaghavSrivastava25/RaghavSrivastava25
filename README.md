@@ -8,22 +8,22 @@ I'm a thinker and a Developer.
 
 I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
 
-Languages : Python / SQL / C# / C++
+Languages : Python / SQL / C# / C++ / Q#
 
-Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / .NET /  NLTK / Hugging Face
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane /.NET /  NLTK / Hugging Face
 
 Databases : PostgreSQL / MongoDB 
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSrivastava25&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently a junior dev at Pace Stock Brocking Pvt Ltd.
+- 🔭 I’m building my startup StockBrain 
 
-- 🌱 I’m currently learning abt Quantitative investment management, algorithmic trading, DBA stuff.
+- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
-- 🤔 I’m looking for help with some intimidating fintech startup stuff, contact me if you're interested in knowing what's it about.
+- 🤔 I’m looking for highly motivated people interested in joining my startup StockBrain, contact me to know more.
 
 - 💬 Ask me about Machine Learning, Math, Stats, Game Theory, The Human Brain, etc. 
  
