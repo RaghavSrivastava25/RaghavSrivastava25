@@ -12,7 +12,7 @@ Languages : Python / SQL / Q# / C++ / C# / C / Matlab
 
 Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane /.NET /  NLTK / Hugging Face / Gradio
 
-Databases : PostgreSQL/ SQLite / MongoDB 
+Databases : PostgreSQL / MongoDB 
 
 
 - 🔭 I’m building my startup StockBrain 
