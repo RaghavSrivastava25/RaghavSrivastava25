@@ -6,18 +6,18 @@ I'm Raghav Srivastava
 
 I'm a thinker and a Developer.
 
-I have an inclination towards: Fintech and Algorithmic trading / NLP / Recommendation systems / AI for healthcare
+I have an inclination towards building stuff.
 
 Languages : Python / SQL / Q# / C++ / C# / C / Matlab
 
-Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane /.NET /  NLTK / Hugging Face / Gradio
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / Gradio
 
 Databases : PostgreSQL / MongoDB 
 
 
 - 🔭 I’m building my startup StockBrain 
 
-- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms & Cryptography, Algorithmic trading and Mathematical Finance.
+- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
