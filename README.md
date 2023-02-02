@@ -34,17 +34,17 @@ Databases : PostgreSQL / MongoDB
 
 StockBrain 
 
-https://github.com/StockBrain-1
+github.com/StockBrain-1
 
-https://glitter-molybdenum-e10.notion.site/StockBrain-7562bcd2beb74ff6910b32ec6bed8ff2
+glitter-molybdenum-e10.notion.site/StockBrain-7562bcd2beb74ff6910b32ec6bed8ff2
 
 
 
 My LinkedIn 
 
-https://www.linkedin.com/in/raghav-srivastava-11001ai/
+www.linkedin.com/in/raghav-srivastava-11001ai/
 
 
 My Twitter 
 
-https://twitter.com/Raghav_11001_ai
+twitter.com/Raghav_11001_ai
