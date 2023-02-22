@@ -8,11 +8,12 @@ I'm a thinker and a Developer.
 
 I have an inclination towards building stuff.
 
-Languages : Python / SQL / Q# / C++ / C# / C / Matlab
+Languages : Python / SQL / C++ / C# / C / Matlab
 
 Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / Gradio
 
-Databases : PostgreSQL / MongoDB 
+Databases : PostgreSQL / SQLite
+ / MongoDB 
 
 
 - 🔭 I’m building my startup StockBrain 
