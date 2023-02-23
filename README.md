@@ -8,7 +8,7 @@ I'm a thinker and a Developer.
 
 I have an inclination towards building stuff.
 
-Languages : Python / SQL / C++ / C# / C / Matlab
+Languages : Python / SQL / C / C++ / C# / Matlab
 
 Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / Gradio
 
@@ -16,7 +16,9 @@ Databases : PostgreSQL / SQLite
  / MongoDB 
 
 
-- 🔭 I’m building my startup StockBrain 
+- 🔭 I’m building my startup StockBrain, 
+- am the project manager for a SURA project at IIT Delhi, 
+- am working as an intern at Pace Stock Broking Services Pvt. Ltd.
 
 - 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
 
@@ -24,7 +26,7 @@ Databases : PostgreSQL / SQLite
 
 - 🤔 I’m looking for highly motivated people interested in being a part of the founding team of my startup StockBrain, contact me to know more.
 
-- 💬 Ask me about Machine Learning, Math, Stats, Game Theory, The Human Brain, etc. 
+- 💬 Ask me about Machine Learning, SQL, Math, Stats, Game Theory, Philosophy, The Human Physiology, etc. 
  
 - 📫 How to reach me: mr.tachyon25@gmail.com 
 
