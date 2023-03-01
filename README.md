@@ -17,7 +17,7 @@ Databases : PostgreSQL / SQLite
 
 
 - 🔭 I’m building my startup StockBrain, 
-- am the project manager for a SURA project at IIT Delhi, 
+- am collaborating with a SURA project at IIT Delhi for StockBrain, 
 - am working as an intern at Pace Stock Broking Services Pvt. Ltd.
 
 - 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
