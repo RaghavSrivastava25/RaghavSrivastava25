@@ -18,7 +18,7 @@ Databases : PostgreSQL / SQLite
 
 - 🔭 I’m building my startup StockBrain, 
 - am collaborating with a SURA project at IIT Delhi for StockBrain, 
-- am working as a Data Analyst at Pace Stock Broking Services Pvt. Ltd.
+- Looking for remote work opportunities.
 
 - 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
 
