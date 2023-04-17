@@ -20,7 +20,7 @@ Databases : PostgreSQL / SQLite
 - am collaborating with a SURA project at IIT Delhi for StockBrain, 
 - Looking for remote work opportunities.
 
-- 🌱 I’m currently learning abt Reinforcement Learning, Quantum Algorithms, Algorithmic trading and Mathematical Finance.
+- 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, DSA, SQL and Math & Stats for finance.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
