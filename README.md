@@ -2,7 +2,7 @@
 
 I'm Raghav Srivastava
 
-([(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatculture.com%2Ftv%2Fits-always-sunny-in-philadelphia-quiz-charlie-kelly-finish-these-quotes%3Fpage%3D2&psig=AOvVaw3pKQL4-8t-OI4KVO7rafgM&ust=1685427200148000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj5u93vmf8CFQAAAAAdAAAAABAK]))
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatculture.com%2Ftv%2Fits-always-sunny-in-philadelphia-quiz-charlie-kelly-finish-these-quotes%3Fpage%3D2&psig=AOvVaw3pKQL4-8t-OI4KVO7rafgM&ust=1685427200148000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj5u93vmf8CFQAAAAAdAAAAABAK)
 
 I'm a thinker and a Developer.
 
