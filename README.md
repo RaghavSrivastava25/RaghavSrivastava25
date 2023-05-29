@@ -17,10 +17,11 @@ Databases : PostgreSQL / SQLite
 
 
 - 🔭 I’m building my startup StockBrain, 
-- am collaborating with a SURA project at IIT Delhi for StockBrain, 
+- Summer Intern at IIT Jodhpur,
+- Quant Intern at AlgoAnalytics, 
 - Looking for remote work opportunities.
 
-- 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, DSA, SQL and Math & Stats for finance.
+- 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, Cognitive Architectures, Algorithmic Trading, DSA.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
