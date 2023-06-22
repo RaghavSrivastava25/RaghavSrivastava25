@@ -16,7 +16,8 @@ Databases : PostgreSQL / SQLite
 
 - 🔭 I’m building my startup StockBrain, 
 - Summer Intern at IIT Jodhpur,
-- Quant Intern at AlgoAnalytics, 
+- Quant Intern at AlgoAnalytics,
+- Instructor at Udemy.
 - Looking for remote work opportunities.
 
 - 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, Cognitive Architectures, Algorithmic Trading, DSA.
