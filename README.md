@@ -8,7 +8,7 @@ I have an inclination towards building stuff.
 
 Languages : Python / SQL / C / C++ / C# / Matlab
 
-Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / Gradio
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / LangChain / Open AI / Gradio
 
 Databases : PostgreSQL / SQLite
  / MongoDB 
