@@ -8,10 +8,10 @@ I have an inclination towards building stuff.
 
 Languages : Python / SQL / C / C++ / C# / Matlab
 
-Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / LangChain / Open AI / Gradio
+Libraries & Frameworks : Tensorflow / Keras / Scikit-Learn / Numpy / Pandas / Matplotlib / Qiskit / Pennylane.ai /  NLTK / Hugging Face / LangChain / Llama / Open AI / Gradio
 
 Databases : PostgreSQL / SQLite
- / MongoDB 
+ / MongoDB / FSSAI / Chroma DB / Pinecone DB
 
 
 - 🔭 I’m building my startup StockBrain, 
@@ -21,7 +21,7 @@ Databases : PostgreSQL / SQLite
 - Instructor at Udemy.
 - Looking for remote/hybrid work opportunities.
 
-- 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, Cognitive Architectures, Algorithmic Trading, DSA.
+- 🌱 I’m currently learning abt Machine Learning, Reinforcement Learning, Cognitive Architectures, Algorithmic Trading, LLMs.
 
 - 👯 I’m looking to collaborate on solutions with the potential to create impact. 
 
