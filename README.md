@@ -24,7 +24,8 @@ Libraries & Frameworks :
 ![NLTK](https://img.shields.io/badge/NLTK-red)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-green)
-![Gradio](https://img.shields.io/badge/Gradio-yellow)
+![Gradio](https://img.shields.io/badge/Gradio-black)
+![Streamlit](https://img.shields.io/badge/Streamlit-grey)
 
 Databases : 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
