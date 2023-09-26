@@ -10,7 +10,7 @@ Languages :
 ![SQL](https://img.shields.io/badge/SQL-green)
 ![C](https://img.shields.io/badge/C-yellow)
 ![C++](https://img.shields.io/badge/C++-red)
-![C#](https://img.shields.io/badge/C#-grey)
+![C#](https://img.shields.io/badge/C#-black)
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
 
 Libraries & Frameworks : 
