@@ -38,7 +38,7 @@ Databases :
 ![Chroma DB](https://img.shields.io/badge/Chroma%20DB-red)
 
 - 🔭 I’m building my startup [StockBrain](https://github.com/StockBrain-1)
-- Summer Intern at IIT Jodhpur,
+- Prev Summer Intern at IIT Jodhpur,
 - Prev Quant Intern at AlgoAnalytics,
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
 - Instructor at Udemy.
