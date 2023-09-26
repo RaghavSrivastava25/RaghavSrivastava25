@@ -5,6 +5,7 @@ I'm Raghav Srivastava
 I'm a thinker and a Developer. I have an inclination towards building stuff.
 
 Languages :
+
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQL](https://img.shields.io/badge/SQL-green)
 ![C](https://img.shields.io/badge/C-yellow)
@@ -13,6 +14,7 @@ Languages :
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
 
 Libraries & Frameworks : 
+
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange)
 ![Keras](https://img.shields.io/badge/Keras-red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow)
@@ -28,6 +30,7 @@ Libraries & Frameworks :
 ![Streamlit](https://img.shields.io/badge/Streamlit-grey)
 
 Databases : 
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
