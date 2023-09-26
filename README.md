@@ -5,28 +5,33 @@ I'm Raghav Srivastava
 I'm a thinker and a Developer. I have an inclination towards building stuff.
 
 Languages : Python / SQL / C / C++ / C# / Matlab
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-green)
+![C](https://img.shields.io/badge/C-yellow)
+![C++](https://img.shields.io/badge/C++-red)
+![C#](https://img.shields.io/badge/C#-purple)
+![Matlab](https://img.shields.io/badge/Matlab-orange)
 
 Libraries & Frameworks : 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-yellow)
-![Keras](https://img.shields.io/badge/Keras-yellow)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-orange)
+![Keras](https://img.shields.io/badge/Keras-red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow)
-![Numpy](https://img.shields.io/badge/Numpy-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-yellow)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow)
-![Qiskit](https://img.shields.io/badge/Qiskit-yellow)
-![Pennylane.ai](https://img.shields.io/badge/Pennylane.ai-yellow)
-![NLTK](https://img.shields.io/badge/NLTK-yellow)
+![Numpy](https://img.shields.io/badge/Numpy-blue)
+![Pandas](https://img.shields.io/badge/Pandas-pink)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white)
+![Qiskit](https://img.shields.io/badge/Qiskit-purple)
+![Pennylane.ai](https://img.shields.io/badge/Pennylane.ai-pink)
+![NLTK](https://img.shields.io/badge/NLTK-red)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)
-![LangChain](https://img.shields.io/badge/LangChain-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-green)
 ![Gradio](https://img.shields.io/badge/Gradio-yellow)
 
 Databases : 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![SQLite](https://img.shields.io/badge/SQLite-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue)
+![SQLite](https://img.shields.io/badge/SQLite-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![FSSAI](https://img.shields.io/badge/FSSAI-blue)
-![Chroma DB](https://img.shields.io/badge/Chroma%20DB-blue)
-![Pinecone DB](https://img.shields.io/badge/Pinecone%20DB-blue)
+![Chroma DB](https://img.shields.io/badge/Chroma%20DB-red)
 
 - 🔭 I’m building my startup [StockBrain](https://github.com/StockBrain-1)
 - Summer Intern at IIT Jodhpur,
@@ -50,9 +55,3 @@ Databases :
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/Raghav_11001_ai)
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=icloud)](https://www.notion.so/Raghav-Srivastava-a18bb03c955242ebae845af1096cb130)
 [![AngelList](https://img.shields.io/badge/AngelList-Profile-blue?style=flat-square&logo=angellist)](https://angel.co/u/raghav-srivastava-8)
-
-StockBrain: [GitHub](https://github.com/StockBrain-1), [Notion](https://glitter-molybdenum-e10.notion.site/StockBrain-7562bcd2beb74ff6910b32ec6bed8ff2)
-
-My LinkedIn: [LinkedIn Profile](www.linkedin.com/in/raghav-srivastava-11001ai/)
-
-My Twitter: [Twitter Profile](https://twitter.com/Raghav_11001_ai)
