@@ -4,12 +4,12 @@ I'm Raghav Srivastava
 
 I'm a thinker and a Developer. I have an inclination towards building stuff.
 
-Languages : Python / SQL / C / C++ / C# / Matlab
+Languages :
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQL](https://img.shields.io/badge/SQL-green)
 ![C](https://img.shields.io/badge/C-yellow)
 ![C++](https://img.shields.io/badge/C++-red)
-![C#](https://img.shields.io/badge/C#-purple)
+![C#](https://img.shields.io/badge/C#-violet)
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
 
 Libraries & Frameworks : 
