@@ -38,12 +38,17 @@ Databases :
 ![Chroma DB](https://img.shields.io/badge/Chroma%20DB-red)
 
 - 🔭 I’m building my startup [StockBrain](https://github.com/StockBrain-1)
+
+# Professional Experience
+
 - Prev Summer Intern at IIT Jodhpur,
 - Prev Quant Intern at AlgoAnalytics,
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
 - Instructor at Udemy.
 - Looking for remote/hybrid work opportunities.
-  
+
+
+
 - 🌱 I’m currently learning about Machine Learning, LLM, DSA & DAA, Algorithmic Trading, Reinforcement Learning.
   
 - 👯 I’m looking to collaborate on solutions with the potential to create impact.
@@ -52,10 +57,13 @@ Databases :
   
 - 💬 Ask me about Machine Learning, SQL, Math, Stats, Game Theory, Philosophy, The Human Physiology, etc.
 
+
  
 - 📫 How to reach me: [mr.tachyon25@gmail.com](mailto:mr.tachyon25@gmail.com)
 
 - 📅 Book a meeting with me on [Calendly](https://calendly.com/mr-tachyon25/30min)
+
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/RaghavSrivastava25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-srivastava-11001ai/)
