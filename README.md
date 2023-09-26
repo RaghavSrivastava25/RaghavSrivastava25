@@ -14,7 +14,7 @@ Languages :
 ![SQL](https://img.shields.io/badge/SQL-green)
 ![C](https://img.shields.io/badge/C-yellow)
 ![C++](https://img.shields.io/badge/C++-red)
-![C%23](https://img.shields.io/badge/C%23-amethyst)
+![C%23](https://img.shields.io/badge/C%23-black)
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
 ![HTML](https://img.shields.io/badge/HTML-white)
 ![CSS](https://img.shields.io/badge/CSS-turquoise)
