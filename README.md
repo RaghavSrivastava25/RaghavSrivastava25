@@ -16,6 +16,8 @@ Languages :
 ![C++](https://img.shields.io/badge/C++-red)
 ![C%23](https://img.shields.io/badge/C%23-black)
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
+![HTML](https://img.shields.io/badge/HTML-white)
+![CSS](https://img.shields.io/badge/CSS-turquoise)
 
 Libraries & Frameworks : 
 
