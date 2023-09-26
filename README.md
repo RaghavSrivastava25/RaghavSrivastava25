@@ -43,16 +43,22 @@ Databases :
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
 - Instructor at Udemy.
 - Looking for remote/hybrid work opportunities.
+  
 
-- 🌱 I’m currently learning about Machine Learning, Reinforcement Learning, Cognitive Architectures, Algorithmic Trading, LLMs.
+- 🌱 I’m currently learning about Machine Learning, LLM, DSA & DAA, Algorithmic Trading, Reinforcement Learning.
+  
 
-- 👯 I’m looking to collaborate on solutions with the potential to create impact. 
+- 👯 I’m looking to collaborate on solutions with the potential to create impact.
+  
 
 - 🤔 I’m looking for highly motivated people interested in being a part of the founding team of my startup StockBrain, [contact me](mailto:mr.tachyon25@gmail.com) to know more.
+  
 
-- 💬 Ask me about Machine Learning, SQL, Math, Stats, Game Theory, Philosophy, The Human Physiology, etc. 
+- 💬 Ask me about Machine Learning, SQL, Math, Stats, Game Theory, Philosophy, The Human Physiology, etc.
+  
  
 - 📫 How to reach me: [mr.tachyon25@gmail.com](mailto:mr.tachyon25@gmail.com)
+  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/RaghavSrivastava25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-srivastava-11001ai/)
