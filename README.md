@@ -10,10 +10,10 @@ I'm a thinker and a Developer. I have an inclination towards building stuff.
 
 Languages :
 
-![Python](https://img.shields.io/badge/Python-sapphire)
-![SQL](https://img.shields.io/badge/SQL-emerald)
-![C](https://img.shields.io/badge/C-topaz)
-![C++](https://img.shields.io/badge/C++-ruby)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-green)
+![C](https://img.shields.io/badge/C-yellow)
+![C++](https://img.shields.io/badge/C++-red)
 ![C%23](https://img.shields.io/badge/C%23-amethyst)
 ![Matlab](https://img.shields.io/badge/Matlab-orange)
 ![HTML](https://img.shields.io/badge/HTML-white)
