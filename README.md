@@ -48,9 +48,12 @@ Databases :
 - Looking for remote/hybrid work opportunities.
 
 
+# Learning & Exploring 
 
 - 🌱 I’m currently learning about Machine Learning, LLM, DSA & DAA, Algorithmic Trading, Reinforcement Learning.
-  
+
+
+# Connect with me
 - 👯 I’m looking to collaborate on solutions with the potential to create impact.
   
 - 🤔 I’m looking for highly motivated people interested in being a part of the founding team of my startup StockBrain, [contact me](mailto:mr.tachyon25@gmail.com) to know more.
