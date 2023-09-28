@@ -93,5 +93,5 @@ Tools :
 
 # My Resume 
 
-[![Resume](https://img.shields.io/badge/Resume-white?style=flat-square&logo=Resume)](https://rb.gy/ho0pm)
+[Download Resume](https://github.com/RaghavSrivastava25/RaghavSrivastava25/blob/main/Raghav's%20Resume%20Intern.pdf)
 
