@@ -44,6 +44,14 @@ Databases :
 ![Chroma DB](https://img.shields.io/badge/Chroma%20DB-red)
 
 
+Tools : 
+
+![Git](https://img.shields.io/badge/Git-black)
+![Linux](https://img.shields.io/badge/Linux-grey)
+![Notion](https://img.shields.io/badge/Notion-white)
+
+
+
 # Professional Experience
 
 - 🔭 I’m building my startup [StockBrain](https://github.com/StockBrain-1)
@@ -81,3 +89,10 @@ Databases :
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=icloud)](https://www.notion.so/Raghav-Srivastava-a18bb03c955242ebae845af1096cb130)
 [![AngelList](https://img.shields.io/badge/AngelList-Profile-blue?style=flat-square&logo=angellist)](https://angel.co/u/raghav-srivastava-8)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/RaghavSrivastava25)
+
+
+# My Resume 
+
+[![Resume](https://pbs.twimg.com/media/F61fkvsWUAIqN6E?format=jpg&name=medium)](https://file.notion.so/f/c/cdadfb51-b6cf-4fcc-bd41-309331a45cd3/591137ef-a3e5-408a-8653-f7188e76818b/Raghavs_Resume_Intern.pdf?id=4c25a8e4-b12f-4e74-8fa7-7fe4d928282e&table=block&spaceId=cdadfb51-b6cf-4fcc-bd41-309331a45cd3&expirationTimestamp=1696010400000&signature=-_gUxxSE-379pUOh6Ad-OpaZn-g32_lvGznfQclRb8E&downloadName=Raghav%27s+Resume+Intern.pdf)
+
+
