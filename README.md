@@ -93,6 +93,5 @@ Tools :
 
 # My Resume 
 
-[![Resume](https://img.shields.io/badge/Resume-white)](https://rb.gy/ho0pm)https://rb.gy/ho0pm)
-
+[![Resume](https://img.shields.io/badge/Resume-white?style=flat-square&logo=Resume)](https://rb.gy/ho0pm)
 
