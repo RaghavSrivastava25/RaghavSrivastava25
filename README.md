@@ -2,7 +2,9 @@
 
 I'm Raghav Srivastava
 
-I'm a thinker and a Developer. I have an inclination towards building stuff.
+I'm a thinker and a Developer. 
+
+I have an inclination towards building stuff.
 
 
 # My Tech Stack
