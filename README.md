@@ -98,11 +98,12 @@ Tools :
 
 # Hiring Alert at StockBrain
 
-We have vacancies for various internship roles at StockBrain,
-Send me your:
-- github
-- screentime
-- resting heart rate
-- reading list
-- manifesto
+We have vacancies for various internship roles at StockBrain.
+
+To apply, send me your:
+- Github
+- Screentime
+- Resting Heart Rate
+- Reading List
+- Manifesto
 
