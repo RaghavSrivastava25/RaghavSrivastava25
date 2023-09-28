@@ -100,7 +100,7 @@ Tools :
 
 We have vacancies for various internship roles at StockBrain.
 
-To apply, send me your:
+To apply, mail me your:
 - Github
 - Screentime
 - Resting Heart Rate
