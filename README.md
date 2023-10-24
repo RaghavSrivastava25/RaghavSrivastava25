@@ -61,8 +61,8 @@ Tools :
 - Prev Summer Intern at IIT Jodhpur,
 - Prev Quant Intern at AlgoAnalytics,
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
-- Instructor at Udemy.
-- Looking for remote/hybrid work opportunities.
+- Ex-Instructor at Udemy.
+- Looking for remote/hybrid work opportunities (full time offers)
 
 
 # Learning & Exploring 
