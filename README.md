@@ -99,11 +99,10 @@ Tools :
 [Download Resume](https://github.com/RaghavSrivastava25/RaghavSrivastava25/blob/main/Raghav's%20Resume.pdf)
 
 
-# Hiring Alert at StockBrain
+# Work with me 
 
-We have vacancies for various internship roles at StockBrain.
 
-To apply, mail me your:
+To connect, mail me your:
 - Github
 - Screentime
 - Resting Heart Rate
