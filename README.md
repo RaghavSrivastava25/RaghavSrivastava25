@@ -96,7 +96,7 @@ Tools :
 
 # My Resume 
 
-[Download Resume](https://github.com/RaghavSrivastava25/RaghavSrivastava25/blob/main/Raghav's%20Resume%20Intern.pdf)
+[Download Resume](https://github.com/RaghavSrivastava25/RaghavSrivastava25/blob/main/Raghav's%20Resume.pdf)
 
 
 # Hiring Alert at StockBrain
