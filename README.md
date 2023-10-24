@@ -56,8 +56,8 @@ Tools :
 
 # Professional Experience
 
-- 🔭 I’m building my startup [StockBrain](https://github.com/StockBrain-1)
-- Quant Analyst Intern at Tara Capital Partners India Pvt. Ltd.
+- 🔭 Quant Research Intern at Tara Capital Partners India Pvt. Ltd.
+- Contributing at [StockBrain](https://github.com/StockBrain-1)
 - Prev Summer Intern at IIT Jodhpur,
 - Prev Quant Intern at AlgoAnalytics,
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
