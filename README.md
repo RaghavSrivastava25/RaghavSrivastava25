@@ -67,7 +67,7 @@ Tools :
 
 # Learning & Exploring 
 
-- 🌱 I’m currently learning about Machine Learning, LLM, DSA & DAA, Algorithmic Trading, Reinforcement Learning.
+- 🌱 I’m currently learning about Quant Reseach, Machine Learning, LLMs, DSA & DAA, Algorithmic Trading, Reinforcement Learning.
 
 
 # Connect with me
@@ -97,6 +97,10 @@ Tools :
 # My Resume 
 
 [Download Resume](https://github.com/RaghavSrivastava25/RaghavSrivastava25/blob/main/Raghav's%20Resume.pdf)
+
+
+# My Manifesto
+[![Manifesto](https://img.shields.io/badge/Manifesto-Portfolio-blue?style=flat-square&logo=icloud)](https://glitter-molybdenum-e10.notion.site/Manifesto-6291ab75e1ea4915ab4f3c26f5b3c750?pvs=4)
 
 
 # Work with me 
