@@ -100,7 +100,7 @@ Tools :
 
 
 # My Manifesto
-[![Manifesto](https://img.shields.io/badge/Manifesto-Portfolio-blue?style=flat-square&logo=icloud)](https://glitter-molybdenum-e10.notion.site/Manifesto-6291ab75e1ea4915ab4f3c26f5b3c750?pvs=4)
+[![Manifesto](https://img.shields.io/badge/Manifesto-orange?style=flat-square&logo=icloud)](https://glitter-molybdenum-e10.notion.site/Manifesto-6291ab75e1ea4915ab4f3c26f5b3c750?pvs=4)
 
 
 # Work with me 
