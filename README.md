@@ -56,8 +56,10 @@ Tools :
 
 # Professional Experience
 
-- 🔭 Quant Research Intern at Tara Capital Partners India Pvt. Ltd.
-- Contributing at [StockBrain](https://github.com/StockBrain-1)
+- 🔭 Quant Researcher,
+- Contributing @QuantLab,
+- Prev Quant at Tara Capital Partners,
+-  Head Mentor at Wall Street Oasis,
 - Prev Summer Intern at IIT Jodhpur,
 - Prev Quant Intern at AlgoAnalytics,
 - Prev Data Analyst Intern at Pace Stock Broking Services Pvt. Ltd.
