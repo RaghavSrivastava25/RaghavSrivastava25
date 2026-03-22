@@ -56,7 +56,7 @@ Tools :
 
 # Professional Experience
 
-- 🔭 Quant Researcher,
+- 🔭 Quant Researcher at Two Roads Trading,
 - Contributing @QuantLab,
 - Prev Quant at Tara Capital Partners,
 -  Head Mentor at Wall Street Oasis,
